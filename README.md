@@ -1,3 +1,3 @@
 # alpro-dump-26
-Jawaban untuk mata kuliah IPB KOM2101: Algoritma dan Dasar Pemrograman tahun 2025-2026 beserta penjelasan singkat.
-Tidak lengkap, hanya berdasarkan yang sempat disimpan.
+Repo yang mengandung jawaban untuk soal praktikum mata kuliah IPB KOM2101: Algoritma dan Dasar Pemrograman tahun 2025-2026 beserta penjelasan singkat.
+Soal dan jawaban diurutkan secara kronologis.
