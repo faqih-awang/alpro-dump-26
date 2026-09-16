@@ -1,7 +1,7 @@
-<center><h1>01B. Baca Tulis Angka</h1></center>
-<center>
+<h1 align="center">01B. Baca Tulis Angka</h1>
+<p align="center">
 <b>Time limit: </b>2 s<br><b>Memory limit: </b>64 MB
-</center>
+</p>
 
 ### Description
 Program tidak hanya dapat mencetak namun dapat membaca. Pada soal ini, Anda diminta untuk membuat program yang dapat membaca sebuah bilangan bulat dan mencetaknya kembali.

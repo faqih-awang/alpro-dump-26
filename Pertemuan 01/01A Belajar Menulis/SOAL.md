@@ -1,7 +1,7 @@
-<center><h1>01A. Belajar Menulis</h1></center>
-<center>
+<h1 align="center">01A. Belajar Menulis</h1>
+<p align="center">
 <b>Time limit:</b> 2 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Sekarang Anda akan belajar menulis menggunakan program. Pada soal ini Anda diminta untuk membuat program sederhana yang mencetak suatu teks di layar. Teks yang akan dicetak dapat dilihat pada bagian Sample Output.

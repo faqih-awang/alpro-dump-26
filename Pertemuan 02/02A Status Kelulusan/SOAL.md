@@ -1,7 +1,7 @@
-<center><h1>02A. Status Kelulusan</h1></center>
-<center>
+<h1 align="center">02A. Status Kelulusan</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Buat program untuk menentukan status kelulusan dari suatu mata kuliah yang ditentukan berdasarkan nilai UTS dan UAS (keduanya bilangan bulat 0 sampai dengan 100) dengan ketentuan sebagai berikut:

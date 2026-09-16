@@ -1,7 +1,7 @@
-<center><h1>02B. Tebak Angka</h1></center>
-<center>
+<h1 align="center">02B. Tebak Angka</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Buat program membaca dua bilangan bulat a dan b, kemudian membaca sebuah bilangan bulat c dan menentukan dimana posisi bilangan c berada dalam sebuah garis bilangan. Jika bilangan c berada di sebelah kiri a, maka program menuliskan output kiri, jika di tengah antara a dan b maka cetak tengah, jika di kanan b maka cetak kanan. Sedangkan jika tepat di posisi a atau b maka cetak teks tepi.
