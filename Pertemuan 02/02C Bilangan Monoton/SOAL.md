@@ -1,7 +1,7 @@
-<center><h1>02C. Bilangan Monoton</h1></center>
-<center>
+<h1 align="center">02C. Bilangan Monoton</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Buat program yang membaca empat bilangan bulat (a, b, c, dan d). Ada empat istilah terkait dengan susunan dari keempat bilangan tersebut, yaitu KONSTAN (keempat bilangan adalah sama), MONOTON MENAIK (bilangan sebelah kanan lebih besar atau sama dengan dari bilangan sebelah kirinya tetapi keempatnya tidak sama), MONOTON MENURUN (bilangan sebelah kanan lebih kecil atau sama dengan dari bilangan sebelah kirinya tetapi keempatnya tidak sama), dan TIDAK MONOTON jika tidak memenuhi semua syarat sebelumnya.
