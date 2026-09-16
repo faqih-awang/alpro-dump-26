@@ -1,7 +1,7 @@
-<center><h1>03B. Titik dan Lingkaran</h1></center>
-<center>
+<h1 align="center">03B. Titik dan Lingkaran</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Diketahui sebuah lingkaran dengan titik pusat berada di koordinat (0,0), dan ada beberapa koordinat titik yang tersebar. Buatlah program untuk menghitung berapa banyak titik yang berada di dalam lingkaran, dan berada di luar lingkaran.

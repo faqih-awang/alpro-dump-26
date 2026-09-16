@@ -1,7 +1,7 @@
-<center><h1>01C. Pajak Penjualan</h1></center>
-<center>
+<h1 align="center">01C. Pajak Penjualan</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Setiap pelanggan warung makanan dikenakan pajak 15% dari nilai pembelian. Buatlah program untuk mendapatkan nilai pembelian yang sebenarnya jika diketahui pelanggan membayar belanja makanan di kasir dengan nilai uang tertentu.

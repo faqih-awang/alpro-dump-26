@@ -1,7 +1,7 @@
-<center><h1>03C. Kertas dan Silinder</h1></center>
-<center>
+<h1 align="center">03C. Kertas dan Silinder</h1>
+<p align="center">
 <b>Time limit:</b> 1 s<br><b>Memory limit:</b> 64 MB
-</center>
+</p>
 
 ### Description
 Dengan menggunakan kertas dan gunting, kita dapat memotong dua sisi untuk membentuk silinder dengan cara sebagai berikut:
